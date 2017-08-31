@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#1e1e1e</color>
+    <color name="colorPrimaryDark">#000000</color>
+    <color name="colorAccent">#40b6ff</color>
+
+    <!--<color name="colorPrimary">#3F51B5</color>-->
+    <!--<color name="colorPrimaryDark">#303F9F</color>-->
+    <!--<color name="colorAccent">#FF4081</color>-->
+
+
+    <color name="white">#FFFFFF</color>
+    <color name="whiteTransparent">#AAFFFFFF</color>
+    <color name="blackTransparent">#AA000000</color>
+    <color name="blackTransparent2">#55000000</color>
+    <color name="blackTransparent3">#33000000</color>
+
+    <color name="shimmer_background_color">#cacaca</color>
+    <color name="shimmer_shader_color">#f3aaaaaa</color>
+
+    <color name="primaryDark">#212121</color>
+    <color name="mildDark">#272a33</color>
+    <color name="moderateDark">#1d2029</color>
+    <color name="deepDark">#10131c</color>
+
+    <color name="whiteTransparant">#66FFFFFF</color>
+    <color name="grey">#6b6b6b</color>
+    <color name="greyLight">#cacaca</color>
+    <color name="blueGrey">#6e84a1</color>
+    <color name="blueGreyLight">#91b3df</color>
+
+    <color name="yellow">#f1c40f</color>
+    <color name="darkYellow">#f7a700</color>
+    <color name="orange">#e68a00</color>
+
+    <color name="red">#cc2e2e</color>
+
+    <color name="greenMilky">#2ecc71</color>
+    <color name="greenDark">#27ae60</color>
+    <color name="greenDark2">#198748</color>
+    <color name="milkyblue">#3498db</color>
+
+    <color name="cloud">#ecf0f1</color>
+    <color name="cloud2">#e8eaf6</color>
+    <color name="cloud3">#bfc2d4</color>
+    <color name="black">#000000</color>
+
+
+    <color name="blueDark">#404d6e</color>
+    <color name="blueDark1">#4d5d84</color>
+    <color name="blueDark2">#1a1d2a</color>
+
+    <color name="brown">#523D1F</color>
+    <color name="darkGrey">#303030</color>
+
+</resources>

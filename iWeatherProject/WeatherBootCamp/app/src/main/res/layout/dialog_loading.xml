@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="280dp"
+    android:layout_height="100dp"
+    android:layout_gravity="center"
+    android:background="@drawable/rounded_panel_white"
+    android:elevation="17dp">
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:gravity="center"
+        android:paddingLeft="20dp"
+        android:paddingRight="20dp"
+        android:layout_centerInParent="true">
+
+    <TextView
+        android:textColor="@color/milkyblue"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Sedang Memuat Konten"
+        android:textSize="15sp"/>
+
+    <ProgressBar
+        android:id="@+id/progressBar"
+        android:layout_marginTop="10dp"
+        android:layout_width="match_parent"
+        android:layout_height="10dp"
+        android:indeterminateOnly="true"
+        android:paddingLeft="20dp"
+        android:paddingRight="20dp"
+        style="?android:attr/progressBarStyleHorizontal"/>
+
+    </LinearLayout>
+
+
+</RelativeLayout>
+
+
+
+
